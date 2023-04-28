@@ -57,7 +57,7 @@ I like making little play environments for myself in Unity as I learn. Currently
   <img alt="" src="images/SRP5.png" width="600">
 </picture>
 
-- Edge detection/outline detection/non-maxima suppress pass
+- Edge detection/outline detection/convexity/non-maxima suppress pass
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/SRP6.png">
