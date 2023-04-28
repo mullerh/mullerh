@@ -40,3 +40,27 @@ I like making little play environments for myself in Unity as I learn. Currently
   <source media="(prefers-color-scheme: light)" srcset="images/SRP3.png">
   <img alt="" src="images/SRP3.png" width="600">
 </picture>
+
+- Surface normal pass
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/SRP3.png">
+  <source media="(prefers-color-scheme: light)" srcset="images/SRP3.png">
+  <img alt="" src="images/SRP4.png" width="600">
+</picture>
+
+- World position pass
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/SRP3.png">
+  <source media="(prefers-color-scheme: light)" srcset="images/SRP3.png">
+  <img alt="" src="images/SRP5.png" width="600">
+</picture>
+
+- Edge detection/outline detection/non-maxima suppress pass
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/SRP3.png">
+  <source media="(prefers-color-scheme: light)" srcset="images/SRP3.png">
+  <img alt="" src="images/SRP6.png" width="600">
+</picture>
