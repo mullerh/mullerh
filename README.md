@@ -16,3 +16,27 @@ I like making little play environments for myself in Unity as I learn. Currently
 - [ ]  Attach custom render pipeline to other game projects of mine
 
 ### Progress Images
+
+- Regular use case of particles
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/SRP1.png">
+  <source media="(prefers-color-scheme: light)" srcset="images/SRP1.png">
+  <img alt="" src="images/SRP1.png" width="600">
+</picture>
+
+- Extreme use case (still exceeds 100 FPS with over 1000 light particles)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/SRP2.png">
+  <source media="(prefers-color-scheme: light)" srcset="images/SRP2.png">
+  <img alt="" src="images/SRP2.png" width="600">
+</picture>
+
+- Zoomed in view of shadowing and edge highlighting/outline darkening
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/SRP3.png">
+  <source media="(prefers-color-scheme: light)" srcset="images/SRP3.png">
+  <img alt="" src="images/SRP3.png" width="600">
+</picture>
