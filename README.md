@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**mullerh/mullerh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello World!
 
-Here are some ideas to get you started:
+I like making little play environments for myself in Unity as I learn. Currently I'm working on some cool custom unity render pipeline things :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Progress So Far
+- Worked through most of catlikecoding's [Custom-SRP tutorials](https://catlikecoding.com/unity/tutorials/custom-srp/)
+- Created my own lighting shaders following the inspiration of [t3ssel8r's popular videos](https://www.youtube.com/watch?v=0xJqzUHJ2fI&t=1s&ab_channel=t3ssel8r) (stylistic volumetric-esque lights that can be attached to particles)
+- Converted SRP to use deferred shading techniques
+- Added additional render passes to detect edges/convexity/outlines with some non-maxima suppression
+
+### Coming Soon 👀
+- [ ]  Create some progress videos
+- [ ]  Grass!
+- [ ]  Proper shadows for particle lights
+- [ ]  Attach custom render pipeline to other game projects of mine
+
+### Progress Images
