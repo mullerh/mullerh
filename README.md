@@ -8,7 +8,7 @@ I like making little play environments for myself in Unity as I learn. Currently
 - Created my own lighting shaders following the inspiration of [t3ssel8r's popular videos](https://www.youtube.com/watch?v=0xJqzUHJ2fI&t=1s&ab_channel=t3ssel8r) (stylistic volumetric-esque lights that can be attached to particles)
 - Converted SRP to use deferred shading techniques
 - Added additional render passes to detect edges/convexity/outlines with some non-maxima suppression
-- Added water with adjustable reflectivity
+- Added water with adjustable reflectivity and refractions
 - Feel free to check out my other toy projects as well :)
 
 ### Coming Soon 👀
@@ -18,6 +18,14 @@ I like making little play environments for myself in Unity as I learn. Currently
 - [ ]  Attach custom render pipeline to other game projects of mine
 
 ### Progress Images
+
+- Transparent water with reflection, adjustable reflectivity, refractions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/Animation1.gif">
+  <source media="(prefers-color-scheme: light)" srcset="images/Animation1.gif">
+  <img alt="" src="images/Animation1.gif" width="1200">
+</picture>
 
 - Regular use case of particles
 
@@ -35,20 +43,12 @@ I like making little play environments for myself in Unity as I learn. Currently
   <img alt="" src="images/SRP2.png" width="600">
 </picture>
 
-- Zoomed in view of shadowing and edge highlighting/outline darkening
+- Zoomed in view of shadowing and pixel wide edge highlighting/outline darkening
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/SRP3.png">
   <source media="(prefers-color-scheme: light)" srcset="images/SRP3.png">
   <img alt="" src="images/SRP3.png" width="600">
-</picture>
-
-- Water with reflection (daylight lighting for display purposes)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/SRP7.png">
-  <source media="(prefers-color-scheme: light)" srcset="images/SRP7.png">
-  <img alt="" src="images/SRP7.png" width="600">
 </picture>
 
 #### Additional Passes
