@@ -19,7 +19,7 @@ I like making little play environments for myself in Unity as I learn. Currently
 
 ### Progress Images
 
-- Transparent water with reflection, adjustable reflectivity, refractions
+- Transparent water with adjustable reflectivity and refractions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/Animation1.gif">
