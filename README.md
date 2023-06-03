@@ -13,7 +13,6 @@ I like making little play environments for myself in Unity as I learn. Currently
 
 ### Coming Soon 👀
 - [ ]  Create some progress videos
-- [ ]  Grass!
 - [ ]  Proper shadows for particle lights
 - [ ]  Attach custom render pipeline to other game projects of mine
 
@@ -25,6 +24,14 @@ I like making little play environments for myself in Unity as I learn. Currently
   <source media="(prefers-color-scheme: dark)" srcset="images/Animation1.gif">
   <source media="(prefers-color-scheme: light)" srcset="images/Animation1.gif">
   <img alt="" src="images/Animation1.gif" width="1200">
+</picture>
+
+- Procedural interactable grass
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/Animation2.gif">
+  <source media="(prefers-color-scheme: light)" srcset="images/Animation2.gif">
+  <img alt="" src="images/Animation2.gif" width="1200">
 </picture>
 
 - Regular use case of particles
