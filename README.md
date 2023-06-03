@@ -9,6 +9,7 @@ I like making little play environments for myself in Unity as I learn. Currently
 - Converted SRP to use deferred shading techniques
 - Added additional render passes to detect edges/convexity/outlines with some non-maxima suppression
 - Added water with adjustable reflectivity and refractions
+- Added interactable grass with adjustable wind effects
 - Feel free to check out my other toy projects as well :)
 
 ### Coming Soon 👀
