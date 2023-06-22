@@ -93,7 +93,7 @@ I like making little play environments for myself in Unity as I learn. Currently
 
 <hr>
 
-- Zoomed in view of shadowing and pixel wide edge highlighting/outline darkening
+- Zoomed in view of screenspace shadowing and pixel-wide edge highlighting/outline darkening
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/SRP3.png">
