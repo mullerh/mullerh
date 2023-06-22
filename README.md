@@ -1,16 +1,24 @@
 
 ## Hello World!
 
-I like making little play environments for myself in Unity as I learn. Currently I'm working on some cool custom unity render pipeline things :)
+I like making little play environments for myself in Unity as I learn. Currently, I'm working on some cool custom Unity render pipeline things :)
 
 ### Progress So Far
-- Worked through most of catlikecoding's [Custom-SRP tutorials](https://catlikecoding.com/unity/tutorials/custom-srp/)
-- Created my own lighting shaders following the inspiration of [t3ssel8r's popular videos](https://www.youtube.com/watch?v=0xJqzUHJ2fI&t=1s&ab_channel=t3ssel8r) (stylistic volumetric-esque lights that can be attached to particles)
+- Worked through most of catlikecoding's [Custom-SRP tutorials](https://catlikecoding.com/unity/tutorials/custom-srp/) to create my custom SRP 
+- Created my own lighting particle shaders following the inspiration of [t3ssel8r's popular videos](https://www.youtube.com/watch?v=0xJqzUHJ2fI&t=1s&ab_channel=t3ssel8r) (stylistic volumetric-esque lights that can be attached to particles or game objects)
 - Converted SRP to use deferred shading techniques
-- Added additional render passes to detect edges/convexity/outlines with some non-maxima suppression
-- Added water with adjustable reflectivity and refractions
-- Added interactable grass with adjustable wind effects
+- Additional render passes to detect edges/convexity/outlines with some non-maxima suppression
+- Water with adjustable reflectivity and refractions
+- Interactable grass with adjustable wind effects
+- Slow-rolling fog with adjustable parameters
+- Custom pixel-snapping camera controller
+- Custom ground-snapping player controller
+- GPU Instanced projectiles
+- Basic blender animations
 - Feel free to check out my other toy projects as well :)
+
+NOTE: SRP Pipeline project is not available on my GitHub at this time, if you need access please send me a message :)
+
 
 <hr>
 <hr>
@@ -22,6 +30,7 @@ I like making little play environments for myself in Unity as I learn. Currently
 <hr>
 
 ### Progress Images
+NOTE: some artifacts seen are from gif file compression
 
 - Transparent water with adjustable reflectivity and refractions
 
