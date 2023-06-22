@@ -12,10 +12,14 @@ I like making little play environments for myself in Unity as I learn. Currently
 - Added interactable grass with adjustable wind effects
 - Feel free to check out my other toy projects as well :)
 
+<hr>
+<hr>
+
 ### Coming Soon 👀
 - [ ]  Create some progress videos
-- [ ]  Proper shadows for particle lights
-- [ ]  Attach custom render pipeline to other game projects of mine
+
+<hr>
+<hr>
 
 ### Progress Images
 
@@ -27,13 +31,47 @@ I like making little play environments for myself in Unity as I learn. Currently
   <img alt="" src="images/Animation1.gif" width="1200">
 </picture>
 
-- Procedural interactable grass
+<hr>
+
+- Interactable grass made with Procedural Rendering techniques and Compute Shaders
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/Animation2.gif">
   <source media="(prefers-color-scheme: light)" srcset="images/Animation2.gif">
   <img alt="" src="images/Animation2.gif" width="1200">
 </picture>
+
+<hr>
+
+- Slow-rolling fog and some initial animations
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/Animation3.gif">
+  <source media="(prefers-color-scheme: light)" srcset="images/Animation3.gif">
+  <img alt="" src="images/Animation3.gif" width="1200">
+</picture>
+
+<hr>
+
+- Ground snapping movement with pixel snapping camera to avoid aliasing for low-resolution games
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/Animation4.gif">
+  <source media="(prefers-color-scheme: light)" srcset="images/Animation4.gif">
+  <img alt="" src="images/Animation4.gif" width="1200">
+</picture>
+
+<hr>
+
+- GPU Instanced projectiles (easily maintains good performance with >1000 on-screen projectiles)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/Animation5.gif">
+  <source media="(prefers-color-scheme: light)" srcset="images/Animation5.gif">
+  <img alt="" src="images/Animation5.gif" width="1200">
+</picture>
+
+<hr>
 
 - Regular use case of particles
 
@@ -43,6 +81,8 @@ I like making little play environments for myself in Unity as I learn. Currently
   <img alt="" src="images/SRP1.png" width="600">
 </picture>
 
+<hr>
+
 - Extreme use case (still exceeds 100 FPS with over 1000 light particles)
 
 <picture>
@@ -51,6 +91,8 @@ I like making little play environments for myself in Unity as I learn. Currently
   <img alt="" src="images/SRP2.png" width="600">
 </picture>
 
+<hr>
+
 - Zoomed in view of shadowing and pixel wide edge highlighting/outline darkening
 
 <picture>
@@ -58,6 +100,10 @@ I like making little play environments for myself in Unity as I learn. Currently
   <source media="(prefers-color-scheme: light)" srcset="images/SRP3.png">
   <img alt="" src="images/SRP3.png" width="600">
 </picture>
+
+<hr>
+
+<hr>
 
 #### Additional Passes
 
@@ -69,6 +115,8 @@ I like making little play environments for myself in Unity as I learn. Currently
   <img alt="" src="images/SRP4.png" width="600">
 </picture>
 
+<hr>
+
 - World position pass
 
 <picture>
@@ -76,6 +124,8 @@ I like making little play environments for myself in Unity as I learn. Currently
   <source media="(prefers-color-scheme: light)" srcset="images/SRP5.png">
   <img alt="" src="images/SRP5.png" width="600">
 </picture>
+
+<hr>
 
 - Edge detection/outline detection/convexity/non-maxima suppress pass
 
