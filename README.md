@@ -15,6 +15,7 @@ I like making little play environments for myself in Unity as I learn. Currently
 - Custom ground-snapping player controller
 - GPU Instanced projectiles
 - Basic blender animations
+- Fully procedural animations for rat character (limb placements, spine rotations, body rotation, tail and head WIP)
 - Feel free to check out my other toy projects as well :)
 
 NOTE: SRP Pipeline project is not available on my GitHub at this time, if you need access please send me a message :)
