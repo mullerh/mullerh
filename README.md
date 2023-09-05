@@ -67,7 +67,17 @@ NOTE: some artifacts seen are from gif file compression
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/Animation4.gif">
   <source media="(prefers-color-scheme: light)" srcset="images/Animation4.gif">
-  <img alt="" src="images/Animation4.gif" width="1200">
+  <img alt="" src="images/Animation6.gif" width="1200">
+</picture>
+
+<hr>
+
+- Character controller with procedural animation, limbs react to surroundings, handles edge cases (improvements coming soon)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/Animation6.gif">
+  <source media="(prefers-color-scheme: light)" srcset="images/Animation6.gif">
+  <img alt="" src="images/Animation6.gif" width="1200">
 </picture>
 
 <hr>
