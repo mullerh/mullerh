@@ -1,4 +1,4 @@
-
+(NOTE: This page will be slowly moved over to https://mullerh.github.io/index.html)
 ## Hello World!
 
 I like making little play environments for myself in Unity as I learn. Currently, I'm working on some cool custom Unity render pipeline things :)
